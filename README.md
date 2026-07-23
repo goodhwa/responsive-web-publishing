@@ -45,10 +45,10 @@ portfolio/
 | Area | File | Description |
 | --- | --- | --- |
 | Main | `html/index.html` | 메인 비주얼, 사업영역, 솔루션, SI 사례 |
-| Solution | `html/junryeong.html` | 솔루션 — 전령이지 |
-| Solution | `html/charteasy.html` | 솔루션 — 차트이지 |
-| Solution | `html/nebustop.html` | 솔루션 — 네버스탑 |
-| Solution | `html/thingeasy.html` | 솔루션 — 싱크이지 |
+| Solution | `html/junryeong.html` | 솔루션 상세 01 |
+| Solution | `html/charteasy.html` | 솔루션 상세 02 |
+| Solution | `html/nebustop.html` | 솔루션 상세 03 |
+| Solution | `html/thingeasy.html` | 솔루션 상세 04 |
 | Business | `html/si.html` | 시스템 구축 (SI) |
 | Business | `html/app.html` | 앱 개발 |
 | Company | `html/about.html` | 회사소개·연혁·고객사 |
@@ -92,15 +92,7 @@ portfolio/
 
 ---
 
-## Access & Sharing
-
-- 저장소는 **Private**로 운영합니다.
-- 면접관·리뷰어에게만 collaborator 초대로 공유하고, 검토 후 권한을 회수합니다.
-- Public fork, 재배포, 클라이언트·제3자 전달을 금지합니다.
-
----
-
 ## License
 
-포트폴리오 열람 목적의 비공개 샘플입니다.  
+포트폴리오 열람 목적의 샘플입니다.  
 무단 복제·배포·상업적 이용을 금지합니다.
